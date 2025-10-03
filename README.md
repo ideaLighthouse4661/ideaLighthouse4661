@@ -1,13 +1,40 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# 👋 Hi, I'm Michael (aka ideaLighthouse4661)  
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+💻 **Full Stack Developer | 9+ Years of Experience**  
+I specialize in building fast, scalable, and user-friendly applications across web and backend systems.  
+Passionate about clean code, performance optimization, and solving complex technical problems.  
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+---
 
+## 🚀 Skills & Expertise
+- **Frontend**: HTML, CSS, JavaScript, React, Vue  
+- **Backend**: Node.js, PHP, C++  
+- **CMS & Frameworks**: WordPress, Express, Laravel  
+- **Data & APIs**: REST API Development, API Integration, Web Scraping, Data Visualization  
+- **Other**: SEO Optimization, Full Stack Development, Technical Writing, Translation  
 
+---
+
+## 📂 Featured Projects
+- 🔗 [Crypto Faucet & Mining Platform](#) – User balance tracking + secure withdrawals  
+- 🔗 [E-commerce Migration to Shopify](#) – Fast & optimized store setup  
+- 🔗 [Web Scraping Tools](#) – Automated data collection & processing  
+
+---
+
+## 🌟 What I Can Do for You
+✅ Build reliable, production-ready applications  
+✅ Optimize websites for speed, SEO, and performance  
+✅ Integrate APIs and manage complex data workflows  
+✅ Deliver clean code, clear documentation, and long-term support  
+
+---
+
+## 📫 Let’s Connect
+- ✉️ Email: **[your email here]**  
+- 🔗 GitHub: [ideaLighthouse4661](https://github.com/ideaLighthouse4661)  
+- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+
+---
+
+⭐ *Always open to new challenges and collaboration opportunities.* 

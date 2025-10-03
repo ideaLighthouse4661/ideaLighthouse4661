@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael (aka ideaLighthouse4661)  
+# 👋 Hi, I'm Rossy 
 
 💻 **Full Stack Developer | 9+ Years of Experience**  
 I specialize in building fast, scalable, and user-friendly applications across web and backend systems.  

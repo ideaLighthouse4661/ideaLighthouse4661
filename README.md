@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Rossy 
 
+## <div align="left">🏆 Github Trophy</div>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+
 💻 **Full Stack Developer | 9+ Years of Experience**  
 I specialize in building fast, scalable, and user-friendly applications across web and backend systems.  
 Passionate about clean code, performance optimization, and solving complex technical problems.  

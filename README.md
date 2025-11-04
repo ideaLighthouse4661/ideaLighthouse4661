@@ -34,7 +34,7 @@ Passionate about clean code, performance optimization, and solving complex techn
 ---
 
 ## 📫 Let’s Connect
-- ✉️ Email: catop0461@gmail.com 
+- ✉️ Email: lighthouse@gmail.com 
 - 🔗 GitHub: [ideaLighthouse4661](https://github.com/ideaLighthouse4661)  
 - 💼 LinkedIn:   
 

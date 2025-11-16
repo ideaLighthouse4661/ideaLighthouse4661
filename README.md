@@ -34,7 +34,7 @@ Passionate about clean code, performance optimization, and solving complex techn
 ---
 
 ## 📫 Let’s Connect
-- ✉️ Email: lighthouse@gmail.com 
+- ✉️ Email: lighthouse4661@gmail.com 
 - 🔗 GitHub: [ideaLighthouse4661](https://github.com/ideaLighthouse4661)  
 - 💼 LinkedIn:   
 

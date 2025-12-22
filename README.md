@@ -1,8 +1,7 @@
-Hi!
-I'm developing software related to Internet Standards.
+Hi there — I build software at the heart of the open web.
 
-Since late 2013, I have been developing, maintaining, and improving certified libraries to help developers utilize OpenID Connect and OAuth 2 services. I strive to implement as many optional features as possible and adopt early specification drafts to aid in interoperability testing. This allows me to provide implementer feedback to the Working Groups at IETF, OpenID Foundation, and W3C as early and frequently as possible.
+My work lives where Internet Standards are shaped and tested in the real world. Since late 2013, I’ve been designing, maintaining, and evolving certified libraries that help developers confidently implement OpenID Connect and OAuth 2. I care deeply about interoperability, which is why I intentionally embrace optional features and early specification drafts. This hands-on approach lets me surface real implementation feedback early — and share it often — with the working groups at the IETF, OpenID Foundation, and W3C.
 
-Since 2020 I am also a collaborator on the Node.js project team, primarily focusing on maintenance and improvements to the 'node:crypto' module as well as Node's implementation of the W3C Web Cryptography API specification and its extensions. In 2025 I've joined the Node.js Technical Steering Committee (TSC).
+In 2020, I began contributing to the Node.js project, where my focus has been on strengthening and maintaining the node:crypto module, advancing Node.js’s implementation of the W3C Web Cryptography API, and extending it thoughtfully where the ecosystem needs it. In 2025, I was honored to join the Node.js Technical Steering Committee (TSC), helping guide the platform’s technical direction with care, rigor, and long-term sustainability in mind.
 
-Community support is crucial for the continued maintenance and improvement of these modules. If you find my modules useful, please consider becoming a 💗 sponsor.
+Open source thrives on community. The continued quality, security, and evolution of this work depend on shared support. If these projects have helped you or your team, I’d be grateful if you considered becoming a 💗 sponsor — it directly fuels the work that keeps these tools reliable and future-ready.
